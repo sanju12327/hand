@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(111, 139, 231);
+    color: cornsilk;
+}
+
+#heading
+{
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+#camera
+{
+    border-style: ridge;
+}
+
+#result
+{
+    border-style: ridge;
+}
+
+#result_object_name
+{
+    font-size: 15px;
+}
